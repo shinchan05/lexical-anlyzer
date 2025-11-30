@@ -20,17 +20,29 @@ float b = a + 5;
 output
 
 Keyword      : int
+
 Identifier   : a
+
 Operator     : =
+
 Number       : 10
+
 Symbol       : ;
+
 Keyword      : float
+
 Identifier   : b
+
 Operator     : =
+
 Identifier   : a
+
 Operator     : +
+
 Number       : 5
+
 Symbol       : ;
+
 
 /lexical
 
